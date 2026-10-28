@@ -1,2 +1,2 @@
-# redirect-security-test
+index.html
 Harmless redirect testing page
